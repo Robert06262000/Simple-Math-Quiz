@@ -1,0 +1,10 @@
+C:\Users\Robert P\OneDrive\Desktop\Computer Programming\C#\Full Projects\Quiz Game\bin\Debug\Quiz Game.exe.config
+C:\Users\Robert P\OneDrive\Desktop\Computer Programming\C#\Full Projects\Quiz Game\bin\Debug\Quiz Game.exe
+C:\Users\Robert P\OneDrive\Desktop\Computer Programming\C#\Full Projects\Quiz Game\bin\Debug\Quiz Game.pdb
+C:\Users\Robert P\OneDrive\Desktop\Computer Programming\C#\Full Projects\Quiz Game\obj\Debug\Quiz Game.csprojAssemblyReference.cache
+C:\Users\Robert P\OneDrive\Desktop\Computer Programming\C#\Full Projects\Quiz Game\obj\Debug\Quiz_Game.Form1.resources
+C:\Users\Robert P\OneDrive\Desktop\Computer Programming\C#\Full Projects\Quiz Game\obj\Debug\Quiz_Game.Properties.Resources.resources
+C:\Users\Robert P\OneDrive\Desktop\Computer Programming\C#\Full Projects\Quiz Game\obj\Debug\Quiz Game.csproj.GenerateResource.cache
+C:\Users\Robert P\OneDrive\Desktop\Computer Programming\C#\Full Projects\Quiz Game\obj\Debug\Quiz Game.csproj.CoreCompileInputs.cache
+C:\Users\Robert P\OneDrive\Desktop\Computer Programming\C#\Full Projects\Quiz Game\obj\Debug\Quiz Game.exe
+C:\Users\Robert P\OneDrive\Desktop\Computer Programming\C#\Full Projects\Quiz Game\obj\Debug\Quiz Game.pdb
